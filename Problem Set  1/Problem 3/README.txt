@@ -1,3 +1,0 @@
-norimage(img)函数对图像进行归一化
-extension(img,kernel)对图像进行padding补0保证convolve前后图像大小不变
-normalize(kernel)对gaussian_blur_kernel_2d产生的kernel进行归一化
